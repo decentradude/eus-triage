@@ -1,0 +1,136 @@
+Mar 26 20:07:11 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() N/A
+Mar 26 20:07:11 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 26 21:04:39 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 26 21:04:39 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 26 21:07:28 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() BSC
+Mar 26 21:07:28 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 26 21:42:58 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 26 21:42:58 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 26 22:07:14 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() N/A
+Mar 26 22:07:14 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 26 23:07:03 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() POLYGON
+Mar 26 23:07:03 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 00:07:18 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() POLYGON
+Mar 27 00:07:18 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 00:09:39 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 27 00:09:39 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 01:07:00 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() N/A
+Mar 27 01:07:00 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 01:23:25 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 27 01:23:25 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 01:25:26 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 27 01:25:26 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 02:07:12 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() POLYGON
+Mar 27 02:07:12 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 02:45:51 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() BSC
+Mar 27 02:45:51 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 03:07:42 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() N/A
+Mar 27 03:07:42 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 03:22:54 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() BSC
+Mar 27 03:22:54 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 04:07:22 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() N/A
+Mar 27 04:07:22 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 04:15:36 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 27 04:15:36 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 05:07:05 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() POLYGON
+Mar 27 05:07:05 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 06:07:10 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() N/A
+Mar 27 06:07:10 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 07:03:07 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 27 07:03:07 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 07:03:08 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 27 07:03:08 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 07:03:13 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 27 07:03:13 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 07:07:15 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() BSC
+Mar 27 07:07:15 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 07:20:18 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 27 07:20:18 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 07:20:18 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 27 07:20:18 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 09:07:28 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() N/A
+Mar 27 09:07:28 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 10:07:41 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() POLYGON
+Mar 27 10:07:41 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 11:07:32 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() N/A
+Mar 27 11:07:32 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 12:07:19 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() POLYGON
+Mar 27 12:07:19 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 13:07:29 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() BSC
+Mar 27 13:07:29 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 14:07:32 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() N/A
+Mar 27 14:07:32 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 15:07:17 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() POLYGON
+Mar 27 15:07:17 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 16:07:54 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() N/A
+Mar 27 16:07:54 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 17:07:48 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() BSC
+Mar 27 17:07:48 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 17:43:01 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 27 17:43:01 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 17:55:05 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 27 17:55:05 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 17:55:20 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 27 17:55:20 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 18:07:22 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() N/A
+Mar 27 18:07:22 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 19:07:23 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() N/A
+Mar 27 19:07:23 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 20:07:18 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() BSC
+Mar 27 20:07:18 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 20:08:00 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() N/A
+Mar 27 20:08:00 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 20:34:26 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() BSC
+Mar 27 20:34:26 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 20:34:27 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() BSC
+Mar 27 20:34:27 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 20:34:31 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() BSC
+Mar 27 20:34:31 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 21:00:22 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 27 21:00:22 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 21:00:22 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 27 21:00:22 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 21:07:25 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() N/A
+Mar 27 21:07:25 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 22:07:27 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() BSC
+Mar 27 22:07:27 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 27 23:07:34 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() N/A
+Mar 27 23:07:34 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 28 00:07:28 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() POLYGON
+Mar 28 00:07:28 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 28 01:07:15 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() N/A
+Mar 28 01:07:15 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 28 01:58:16 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 28 01:58:16 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 28 02:00:49 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() BSC
+Mar 28 02:00:49 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 28 02:07:42 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() POLYGON
+Mar 28 02:07:42 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 28 03:07:28 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() N/A
+Mar 28 03:07:28 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 28 06:07:40 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() POLYGON
+Mar 28 06:07:40 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 28 06:11:51 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 28 06:11:51 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 28 06:11:51 i-0a577d10cfdc39270 gunicorn[24496]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 28 06:11:51 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 28 07:07:13 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() N/A
+Mar 28 07:07:13 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 28 07:30:58 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address, int(token_id)).call() N/A
+Mar 28 07:30:58 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 28 08:07:14 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() N/A
+Mar 28 08:07:14 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 28 08:52:56 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() POLYGON
+Mar 28 08:52:56 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 28 08:53:10 i-0a577d10cfdc39270 gunicorn[24496]: balance = contract.functions.balanceOf(address).call() BSC
+Mar 28 08:53:10 i-0a577d10cfdc39270 gunicorn[24496]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 28 12:02:54 i-0a577d10cfdc39270 gunicorn[19442]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 28 12:02:54 i-0a577d10cfdc39270 gunicorn[19442]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 28 12:15:30 i-0a577d10cfdc39270 gunicorn[19442]: return getattr(contract.functions, function_name)(*function_args).call() BSC
+Mar 28 12:15:30 i-0a577d10cfdc39270 gunicorn[19442]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 28 12:15:30 i-0a577d10cfdc39270 gunicorn[19442]: return getattr(contract.functions, function_name)(*function_args).call() BSC
+Mar 28 12:15:30 i-0a577d10cfdc39270 gunicorn[19442]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 28 12:36:23 i-0a577d10cfdc39270 gunicorn[19442]: return getattr(contract.functions, function_name)(*function_args).call() POLYGON
+Mar 28 12:36:23 i-0a577d10cfdc39270 gunicorn[19442]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Mar 28 12:42:16 i-0a577d10cfdc39270 gunicorn[19442]: balance = contract.functions.balanceOf(address, int(token_id)).call() N/A
+Mar 28 12:42:16 i-0a577d10cfdc39270 gunicorn[19442]: requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
